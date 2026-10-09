@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/openbook",
+  "textures": {
+    "all": "luphieclutteredmod:block/openbooktext",
+    "particle": "luphieclutteredmod:block/openbooktext",
+    "2": "luphieclutteredmod:block/openbooktext"
+  },
+  "render_type": "solid"
+}

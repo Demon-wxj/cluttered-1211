@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:candles"
+    },
+    "1": {
+      "item": "minecraft:book"
+    },
+    "2": {
+      "item": "minecraft:flower_pot"
+    },
+    "4": {
+      "item": "luphieclutteredmod:luphie_brown_desk"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_cluttered_desk"
+  }
+}

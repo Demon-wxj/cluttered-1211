@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pinkglowshroomterrarium",
+  "textures": {
+    "all": "luphieclutteredmod:block/pinkglowshroomterrariumtext",
+    "particle": "luphieclutteredmod:block/pinkglowshroomterrariumtext",
+    "2": "luphieclutteredmod:block/pinkglowshroomterrariumtext"
+  },
+  "render_type": "cutout"
+}

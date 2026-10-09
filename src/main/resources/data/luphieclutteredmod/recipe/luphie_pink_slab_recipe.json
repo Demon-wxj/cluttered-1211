@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    "1": {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    "2": {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    }
+  },
+  "result": {
+    "count": 6,
+    "id": "luphieclutteredmod:luphie_pink_slab"
+  }
+}

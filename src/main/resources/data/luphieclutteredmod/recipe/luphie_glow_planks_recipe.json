@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "luphieclutteredmod:luphie_glow_log"
+    },
+    "1": {
+      "item": "luphieclutteredmod:luphie_glow_log"
+    },
+    "2": {
+      "item": "luphieclutteredmod:luphie_glow_log"
+    },
+    "3": {
+      "item": "luphieclutteredmod:luphie_glow_log"
+    }
+  },
+  "result": {
+    "count": 4,
+    "id": "luphieclutteredmod:luphie_glow_planks"
+  }
+}

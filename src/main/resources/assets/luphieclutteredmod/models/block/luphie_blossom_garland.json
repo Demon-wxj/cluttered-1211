@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/blossomgarland",
+  "textures": {
+    "all": "luphieclutteredmod:block/blossomgarlandtext",
+    "particle": "luphieclutteredmod:block/blossomgarlandtext",
+    "0": "luphieclutteredmod:block/blossomgarlandtext"
+  },
+  "render_type": "cutout"
+}

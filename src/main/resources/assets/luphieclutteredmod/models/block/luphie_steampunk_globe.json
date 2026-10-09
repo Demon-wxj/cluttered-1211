@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/steampunkglobestarbound",
+  "textures": {
+    "all": "luphieclutteredmod:block/steampunkglobestarboundtext",
+    "particle": "luphieclutteredmod:block/steampunkglobestarboundtext",
+    "0": "luphieclutteredmod:block/steampunkglobestarboundtext"
+  },
+  "render_type": "solid"
+}

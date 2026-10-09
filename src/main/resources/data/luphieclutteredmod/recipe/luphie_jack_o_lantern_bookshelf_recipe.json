@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "1": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "2": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "7": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "8": {
+      "item": "minecraft:jack_o_lantern"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_jack_o_lantern_bookshelf"
+  }
+}

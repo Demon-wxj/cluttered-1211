@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowoutercornercabinet",
+  "textures": {
+    "all": "luphieclutteredmod:block/yellowoutercornercabinettext",
+    "particle": "luphieclutteredmod:block/yellowoutercornercabinettext",
+    "0": "luphieclutteredmod:block/yellowoutercornercabinettext"
+  },
+  "render_type": "cutout"
+}

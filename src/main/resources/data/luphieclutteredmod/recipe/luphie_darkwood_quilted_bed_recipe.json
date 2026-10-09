@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_fence"
+    },
+    "2": {
+      "item": "minecraft:spruce_fence"
+    },
+    "3": {
+      "item": "minecraft:blue_wool"
+    },
+    "4": {
+      "item": "minecraft:red_wool"
+    },
+    "5": {
+      "item": "minecraft:blue_wool"
+    },
+    "6": {
+      "item": "minecraft:spruce_planks"
+    },
+    "7": {
+      "item": "minecraft:spruce_planks"
+    },
+    "8": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_darkwood_quilted_bed"
+  }
+}

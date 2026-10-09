@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "luphieclutteredmod:item/dynasty_doors"
+  },
+  "render_type": "translucent"
+}

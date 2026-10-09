@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/hangingplantb",
+  "textures": {
+    "all": "luphieclutteredmod:block/hangingplantbtext",
+    "particle": "luphieclutteredmod:block/hangingplantbtext",
+    "0": "luphieclutteredmod:block/hangingplantbtext"
+  },
+  "render_type": "cutout"
+}

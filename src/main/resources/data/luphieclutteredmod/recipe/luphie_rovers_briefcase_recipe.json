@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:dyes"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_briefcase"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_rovers_briefcase"
+  }
+}

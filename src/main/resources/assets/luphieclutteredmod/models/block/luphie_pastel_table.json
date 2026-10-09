@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pasteltable",
+  "textures": {
+    "all": "luphieclutteredmod:block/pasteltabletext",
+    "particle": "luphieclutteredmod:block/pasteltabletext",
+    "0": "luphieclutteredmod:block/pasteltabletext"
+  },
+  "render_type": "solid"
+}

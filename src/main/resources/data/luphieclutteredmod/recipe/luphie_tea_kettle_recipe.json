@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_nugget"
+    },
+    "1": {
+      "item": "minecraft:gold_nugget"
+    },
+    "2": {
+      "item": "minecraft:white_glazed_terracotta"
+    },
+    "3": {
+      "item": "minecraft:white_glazed_terracotta"
+    },
+    "4": {
+      "item": "minecraft:white_glazed_terracotta"
+    },
+    "5": {
+      "item": "minecraft:white_glazed_terracotta"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_tea_kettle"
+  }
+}

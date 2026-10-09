@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/envelopestack",
+  "textures": {
+    "all": "luphieclutteredmod:block/envelopestacktext",
+    "particle": "luphieclutteredmod:block/envelopestacktext",
+    "0": "luphieclutteredmod:block/envelopestacktext"
+  },
+  "render_type": "solid"
+}

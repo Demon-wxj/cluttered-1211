@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/sewingclutter",
+  "textures": {
+    "all": "luphieclutteredmod:block/sewingcluttertext",
+    "particle": "luphieclutteredmod:block/sewingcluttertext",
+    "0": "luphieclutteredmod:block/sewingcluttertext"
+  },
+  "render_type": "solid"
+}

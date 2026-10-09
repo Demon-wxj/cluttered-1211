@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/cyanarmchair",
+  "textures": {
+    "all": "luphieclutteredmod:block/cyanarmchair",
+    "particle": "luphieclutteredmod:block/cyanarmchair",
+    "0": "luphieclutteredmod:block/cyanarmchair"
+  },
+  "render_type": "solid"
+}

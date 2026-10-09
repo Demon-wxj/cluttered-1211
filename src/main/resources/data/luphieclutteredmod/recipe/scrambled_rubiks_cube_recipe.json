@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:rubiks_cube"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:scrambled_rubiks_cube"
+  }
+}

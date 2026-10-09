@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:purple_concrete"
+    },
+    "1": {
+      "item": "minecraft:purple_concrete"
+    },
+    "2": {
+      "item": "minecraft:purple_concrete"
+    },
+    "3": {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    },
+    "4": {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    },
+    "5": {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_cat_kitchen_table"
+  }
+}

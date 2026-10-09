@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/winebottles",
+  "textures": {
+    "all": "luphieclutteredmod:block/winebottlestext",
+    "particle": "luphieclutteredmod:block/winebottlestext",
+    "0": "luphieclutteredmod:block/winebottlestext"
+  },
+  "render_type": "solid"
+}

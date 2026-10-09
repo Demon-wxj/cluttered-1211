@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/watermelonarmchair",
+  "textures": {
+    "all": "luphieclutteredmod:block/watermelonarmchairretext",
+    "particle": "luphieclutteredmod:block/watermelonarmchairretext",
+    "0": "luphieclutteredmod:block/watermelonarmchairretext"
+  },
+  "render_type": "solid"
+}

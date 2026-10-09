@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cactus"
+    },
+    "1": {
+      "item": "minecraft:cactus"
+    },
+    "2": {
+      "item": "minecraft:flower_pot"
+    },
+    "3": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_mini_cactus_set"
+  }
+}

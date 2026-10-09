@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/safestarbound",
+  "textures": {
+    "all": "luphieclutteredmod:block/safestarbound",
+    "particle": "luphieclutteredmod:block/safestarbound",
+    "0": "luphieclutteredmod:block/safestarbound"
+  },
+  "render_type": "solid"
+}

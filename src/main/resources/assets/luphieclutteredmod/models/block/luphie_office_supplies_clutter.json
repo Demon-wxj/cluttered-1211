@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/officesupplyclutter",
+  "textures": {
+    "all": "luphieclutteredmod:block/officesuppliescluttertext",
+    "particle": "luphieclutteredmod:block/officesuppliescluttertext",
+    "0": "luphieclutteredmod:block/officesuppliescluttertext"
+  },
+  "render_type": "cutout"
+}

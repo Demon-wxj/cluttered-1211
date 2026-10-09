@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:lime_dye"
+    },
+    "3": {
+      "item": "minecraft:oak_button"
+    },
+    "4": {
+      "item": "minecraft:oak_button"
+    },
+    "5": {
+      "item": "minecraft:oak_button"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_button_stool"
+  }
+}

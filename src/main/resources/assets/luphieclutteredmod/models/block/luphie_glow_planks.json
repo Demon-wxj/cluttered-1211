@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/glowplanks",
+    "up": "luphieclutteredmod:block/glowplanks",
+    "north": "luphieclutteredmod:block/glowplanks",
+    "east": "luphieclutteredmod:block/glowplanks",
+    "south": "luphieclutteredmod:block/glowplanks",
+    "west": "luphieclutteredmod:block/glowplanks",
+    "particle": "luphieclutteredmod:block/glowplanks"
+  },
+  "render_type": "solid"
+}

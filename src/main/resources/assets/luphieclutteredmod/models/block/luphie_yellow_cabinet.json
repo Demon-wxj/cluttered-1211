@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowcabinet",
+  "textures": {
+    "all": "luphieclutteredmod:block/yellowcabinettext",
+    "particle": "luphieclutteredmod:block/yellowcabinettext",
+    "2": "luphieclutteredmod:block/yellowcabinettext"
+  },
+  "render_type": "solid"
+}

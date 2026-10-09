@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/roversstool",
+  "textures": {
+    "all": "luphieclutteredmod:block/roversstooltext",
+    "particle": "luphieclutteredmod:block/roversstooltext",
+    "0": "luphieclutteredmod:block/roversstooltext"
+  },
+  "render_type": "cutout"
+}

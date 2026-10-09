@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/mermaiddresser",
+  "textures": {
+    "all": "luphieclutteredmod:block/mermaiddressertext",
+    "particle": "luphieclutteredmod:block/mermaiddressertext",
+    "1": "luphieclutteredmod:block/mermaiddressertext"
+  },
+  "render_type": "cutout"
+}

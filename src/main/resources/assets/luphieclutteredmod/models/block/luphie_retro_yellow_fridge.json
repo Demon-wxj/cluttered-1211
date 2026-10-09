@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowretrofridge",
+  "textures": {
+    "all": "luphieclutteredmod:block/retroyellowfridgetext",
+    "particle": "luphieclutteredmod:block/retroyellowfridgetext",
+    "0": "luphieclutteredmod:block/retroyellowfridgetext"
+  },
+  "render_type": "solid"
+}

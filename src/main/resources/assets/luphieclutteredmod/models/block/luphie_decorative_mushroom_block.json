@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/mushbookshelftop",
+    "up": "luphieclutteredmod:block/mushbookshelftop",
+    "north": "luphieclutteredmod:block/mushbookshelftop",
+    "east": "luphieclutteredmod:block/mushbookshelftop",
+    "south": "luphieclutteredmod:block/mushbookshelftop",
+    "west": "luphieclutteredmod:block/mushbookshelftop",
+    "particle": "luphieclutteredmod:block/mushbookshelftop"
+  },
+  "render_type": "solid"
+}

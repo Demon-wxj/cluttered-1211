@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/scatteredpapers",
+  "textures": {
+    "all": "luphieclutteredmod:block/scatteredpaperstext",
+    "particle": "luphieclutteredmod:block/scatteredpaperstext",
+    "0": "luphieclutteredmod:block/scatteredpaperstext"
+  },
+  "render_type": "solid"
+}

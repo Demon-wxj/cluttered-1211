@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/orangearmchair",
+  "textures": {
+    "all": "luphieclutteredmod:block/orangearmchair",
+    "particle": "luphieclutteredmod:block/orangearmchair",
+    "0": "luphieclutteredmod:block/orangearmchair"
+  },
+  "render_type": "solid"
+}

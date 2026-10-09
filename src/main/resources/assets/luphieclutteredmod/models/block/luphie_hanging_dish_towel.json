@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/hangingdishtowel",
+  "textures": {
+    "all": "luphieclutteredmod:block/hangingdishtoweltext",
+    "particle": "luphieclutteredmod:block/hangingdishtoweltext",
+    "0": "luphieclutteredmod:block/hangingdishtoweltext"
+  },
+  "render_type": "solid"
+}

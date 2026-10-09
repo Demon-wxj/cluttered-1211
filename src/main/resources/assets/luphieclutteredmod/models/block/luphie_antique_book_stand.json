@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/antiquebookstandsims4",
+  "textures": {
+    "all": "luphieclutteredmod:block/antiquebookstandsims4text",
+    "particle": "luphieclutteredmod:block/antiquebookstandsims4text",
+    "0": "luphieclutteredmod:block/antiquebookstandsims4text"
+  },
+  "render_type": "solid"
+}

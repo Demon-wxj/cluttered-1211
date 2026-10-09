@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/plantjar",
+  "textures": {
+    "all": "luphieclutteredmod:block/plantjartext",
+    "particle": "luphieclutteredmod:block/plantjartext",
+    "3": "luphieclutteredmod:block/plantjartext"
+  },
+  "render_type": "cutout"
+}

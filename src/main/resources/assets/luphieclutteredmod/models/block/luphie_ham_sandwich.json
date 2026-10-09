@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/hamsandwich",
+  "textures": {
+    "all": "luphieclutteredmod:block/hamsandwichtext",
+    "particle": "luphieclutteredmod:block/hamsandwichtext",
+    "1": "luphieclutteredmod:block/hamsandwichtext"
+  },
+  "render_type": "cutout"
+}

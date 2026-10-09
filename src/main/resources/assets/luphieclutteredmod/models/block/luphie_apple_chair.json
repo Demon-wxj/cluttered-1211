@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/applechair",
+  "textures": {
+    "all": "luphieclutteredmod:block/applechairtext",
+    "particle": "luphieclutteredmod:block/applechairtext",
+    "0": "luphieclutteredmod:block/applechairtext"
+  },
+  "render_type": "cutout"
+}

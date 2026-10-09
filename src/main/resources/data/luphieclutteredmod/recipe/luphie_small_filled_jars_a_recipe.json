@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_dye"
+    },
+    "1": {
+      "item": "luphieclutteredmod:luphie_empty_small_jars"
+    },
+    "2": {
+      "item": "minecraft:brown_dye"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_small_filled_jars_a"
+  }
+}

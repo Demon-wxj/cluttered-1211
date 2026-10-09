@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/sims4pastelstrawberrywallpaper",
+    "up": "luphieclutteredmod:block/sims4pastelstrawberrywallpaper",
+    "north": "luphieclutteredmod:block/sims4pastelstrawberrywallpaper",
+    "east": "luphieclutteredmod:block/sims4pastelstrawberrywallpaper",
+    "south": "luphieclutteredmod:block/sims4pastelstrawberrywallpaper",
+    "west": "luphieclutteredmod:block/sims4pastelstrawberrywallpaper",
+    "particle": "luphieclutteredmod:block/sims4pastelstrawberrywallpaper"
+  },
+  "render_type": "solid"
+}

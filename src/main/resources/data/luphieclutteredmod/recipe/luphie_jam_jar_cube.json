@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "luphieclutteredmod:luphie_assorted_jam_jars"
+    },
+    "1": {
+      "item": "luphieclutteredmod:luphie_assorted_jam_jars"
+    },
+    "2": {
+      "item": "luphieclutteredmod:luphie_assorted_jam_jars"
+    },
+    "3": {
+      "item": "luphieclutteredmod:luphie_assorted_jam_jars"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_mini_jam_jar_cube"
+  }
+}

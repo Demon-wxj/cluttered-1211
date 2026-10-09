@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    },
+    "1": {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    },
+    "2": {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    },
+    "3": {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    },
+    "4": {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    },
+    "5": {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    }
+  },
+  "result": {
+    "count": 3,
+    "id": "luphieclutteredmod:luphie_flowering_pink_heart_door"
+  }
+}

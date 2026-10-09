@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "luphieclutteredmod:luphie_row_of_small_pastel_books"
+    },
+    "1": {
+      "item": "luphieclutteredmod:small_pink_shelf"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_pastel_wall_bookshelf"
+  }
+}

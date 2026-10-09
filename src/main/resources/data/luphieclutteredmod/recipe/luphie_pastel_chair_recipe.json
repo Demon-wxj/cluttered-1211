@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "1": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "2": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "3": {
+      "item": "minecraft:purple_wool"
+    },
+    "5": {
+      "item": "minecraft:purple_wool"
+    },
+    "6": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "7": {
+      "item": "minecraft:pink_wool"
+    },
+    "8": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_pastel_chair"
+  }
+}

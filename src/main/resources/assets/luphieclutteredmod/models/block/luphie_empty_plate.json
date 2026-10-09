@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/emptyplate",
+  "textures": {
+    "all": "luphieclutteredmod:block/platetext",
+    "particle": "luphieclutteredmod:block/platetext",
+    "0": "luphieclutteredmod:block/platetext"
+  },
+  "render_type": "cutout"
+}

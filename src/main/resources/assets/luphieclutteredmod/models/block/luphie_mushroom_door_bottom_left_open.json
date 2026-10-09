@@ -1,0 +1,8 @@
+{
+  "parent": "block/door_bottom_left_open",
+  "textures": {
+    "bottom": "luphieclutteredmod:block/mushdoorbottomhalf",
+    "top": "luphieclutteredmod:block/mushdoortophalf"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/smallcauldronset",
+  "textures": {
+    "all": "luphieclutteredmod:block/smallcauldronset",
+    "particle": "luphieclutteredmod:block/smallcauldronset",
+    "0": "luphieclutteredmod:block/smallcauldronset"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "luphieclutteredmod:block/floweringpurpleplanks",
+    "top": "luphieclutteredmod:block/floweringpurpleplanks",
+    "side": "luphieclutteredmod:block/floweringpurpleplanks"
+  },
+  "render_type": "solid"
+}

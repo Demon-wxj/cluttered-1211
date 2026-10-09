@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_planks"
+    },
+    "1": {
+      "item": "minecraft:spruce_planks"
+    },
+    "2": {
+      "item": "minecraft:spruce_planks"
+    },
+    "3": {
+      "item": "luphieclutteredmod:luphie_darkwood_stool"
+    },
+    "5": {
+      "item": "luphieclutteredmod:luphie_darkwood_stool"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_darkwood_round_table"
+  }
+}

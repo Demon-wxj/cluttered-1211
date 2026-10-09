@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "luphieclutteredmod:luphie_pink_glass_cabinet"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "luphieclutteredmod:luphie_pink_outer_corner_cabinet"
+  }
+}

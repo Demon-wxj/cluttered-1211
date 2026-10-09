@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/platedchocolatecroissant",
+  "textures": {
+    "all": "luphieclutteredmod:block/platedchocolatecroissanttext",
+    "particle": "luphieclutteredmod:block/platedchocolatecroissanttext",
+    "2": "luphieclutteredmod:block/platedchocolatecroissanttext"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/clutteredseltzercans",
+  "textures": {
+    "all": "luphieclutteredmod:block/clutteredseltzercanstext",
+    "particle": "luphieclutteredmod:block/clutteredseltzercanstext",
+    "0": "luphieclutteredmod:block/clutteredseltzercanstext"
+  },
+  "render_type": "solid"
+}

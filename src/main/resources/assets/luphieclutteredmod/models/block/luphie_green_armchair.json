@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/darkgreenarmchair",
+  "textures": {
+    "all": "luphieclutteredmod:block/darkgreenarmchair",
+    "particle": "luphieclutteredmod:block/darkgreenarmchair",
+    "0": "luphieclutteredmod:block/darkgreenarmchair"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/classicminitable",
+  "textures": {
+    "all": "luphieclutteredmod:block/classicminitabletext",
+    "particle": "luphieclutteredmod:block/classicminitabletext",
+    "0": "luphieclutteredmod:block/classicminitabletext"
+  },
+  "render_type": "solid"
+}

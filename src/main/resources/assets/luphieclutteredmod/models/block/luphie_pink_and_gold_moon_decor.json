@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pinkandgoldmoon",
+  "textures": {
+    "all": "luphieclutteredmod:block/pinkandgoldmoontext",
+    "particle": "luphieclutteredmod:block/pinkandgoldmoontext",
+    "0": "luphieclutteredmod:block/pinkandgoldmoontext"
+  },
+  "render_type": "cutout"
+}

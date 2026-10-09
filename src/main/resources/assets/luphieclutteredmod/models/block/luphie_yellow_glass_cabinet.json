@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowglasscabinet",
+  "textures": {
+    "all": "luphieclutteredmod:block/yellowglasscabinettext",
+    "particle": "luphieclutteredmod:block/yellowglasscabinettext",
+    "0": "luphieclutteredmod:block/yellowglasscabinettext"
+  },
+  "render_type": "cutout"
+}

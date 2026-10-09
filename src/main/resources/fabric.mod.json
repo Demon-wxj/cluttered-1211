@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "luphieclutteredmod",
+  "version": "${version}",
+  "name": "Cluttered",
+  "description": "Cluttered 2.1.0 local Fabric port for Minecraft 1.21.1",
+  "authors": [
+    "blake, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/cluttered",
+    "sources": "https://github.com/unilock/Cluttered-1.19.2-MCreator-Fabric"
+  },
+  "license": "Academic Free License v3.0",
+  "icon": "assets/luphieclutteredmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.clutteredmod.LuphieclutteredmodMod"
+    ],
+    "client": [
+      "net.mcreator.clutteredmod.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

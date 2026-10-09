@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/roversbriefcaseretext",
+  "textures": {
+    "all": "luphieclutteredmod:block/roversbriefcaseretext",
+    "particle": "luphieclutteredmod:block/roversbriefcaseretext",
+    "0": "luphieclutteredmod:block/roversbriefcaseretext"
+  },
+  "render_type": "solid"
+}

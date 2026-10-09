@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/jackobookshelfbottom",
+    "up": "luphieclutteredmod:block/jackolanternbookshelftop",
+    "north": "luphieclutteredmod:block/jackobookshelfbooks",
+    "east": "luphieclutteredmod:block/jackobookshelfside",
+    "south": "luphieclutteredmod:block/jackobookshelfside",
+    "west": "luphieclutteredmod:block/jackobookshelfside",
+    "particle": "luphieclutteredmod:block/jackobookshelfbottom"
+  },
+  "render_type": "solid"
+}

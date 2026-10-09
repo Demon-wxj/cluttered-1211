@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/cauldron_poster",
+  "textures": {
+    "all": "luphieclutteredmod:block/cauldron_poster",
+    "particle": "luphieclutteredmod:block/cauldron_poster",
+    "0": "luphieclutteredmod:block/cauldron_poster"
+  },
+  "render_type": "cutout"
+}

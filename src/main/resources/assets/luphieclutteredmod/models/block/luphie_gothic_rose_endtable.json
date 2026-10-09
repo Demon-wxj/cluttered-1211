@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/gothicroseendtable",
+  "textures": {
+    "all": "luphieclutteredmod:block/gothicroseendtabletext",
+    "particle": "luphieclutteredmod:block/gothicroseendtabletext",
+    "0": "luphieclutteredmod:block/gothicroseendtabletext"
+  },
+  "render_type": "solid"
+}

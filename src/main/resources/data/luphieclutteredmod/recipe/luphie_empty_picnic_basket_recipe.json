@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:light_blue_carpet"
+    },
+    "1": {
+      "item": "minecraft:white_carpet"
+    },
+    "2": {
+      "item": "minecraft:light_blue_carpet"
+    },
+    "3": {
+      "item": "minecraft:bamboo"
+    },
+    "4": {
+      "item": "minecraft:bamboo"
+    },
+    "5": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_picnic_basket"
+  }
+}

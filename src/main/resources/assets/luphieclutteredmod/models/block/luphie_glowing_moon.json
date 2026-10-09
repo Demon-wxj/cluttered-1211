@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/glowing_moon",
+  "textures": {
+    "all": "luphieclutteredmod:block/glowing_moon",
+    "particle": "luphieclutteredmod:block/glowing_moon",
+    "0": "luphieclutteredmod:block/glowing_moon"
+  },
+  "render_type": "cutout"
+}

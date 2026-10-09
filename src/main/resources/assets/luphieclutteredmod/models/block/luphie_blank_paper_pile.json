@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/blankpaperpile",
+  "textures": {
+    "all": "luphieclutteredmod:block/blankpaperpiletext",
+    "particle": "luphieclutteredmod:block/blankpaperpiletext",
+    "0": "luphieclutteredmod:block/blankpaperpiletext"
+  },
+  "render_type": "solid"
+}

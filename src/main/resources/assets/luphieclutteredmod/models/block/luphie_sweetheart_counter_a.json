@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/sweetheartcountera",
+  "textures": {
+    "all": "luphieclutteredmod:block/sweetheartcountera",
+    "particle": "luphieclutteredmod:block/sweetheartcountera",
+    "3": "luphieclutteredmod:block/sweetheartcountera"
+  },
+  "render_type": "solid"
+}

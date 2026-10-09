@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_sword"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_dorado_cabinet"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "luphieclutteredmod:luphie_worn_dorado_cabinet"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "luphieclutteredmod:block/purpletrapdoor",
+    "particle": "luphieclutteredmod:block/purpletrapdoor"
+  },
+  "render_type": "solid"
+}

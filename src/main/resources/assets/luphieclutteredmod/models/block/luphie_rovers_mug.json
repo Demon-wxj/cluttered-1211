@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/rovermug",
+  "textures": {
+    "all": "luphieclutteredmod:block/rovermug",
+    "particle": "luphieclutteredmod:block/rovermug",
+    "0": "luphieclutteredmod:block/rovermug"
+  },
+  "render_type": "solid"
+}

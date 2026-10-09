@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/darkwoodgeometricchair",
+  "textures": {
+    "all": "luphieclutteredmod:block/darkwoodgeometricchair",
+    "particle": "luphieclutteredmod:block/darkwoodgeometricchair",
+    "3": "luphieclutteredmod:block/darkwoodgeometricchair"
+  },
+  "render_type": "solid"
+}

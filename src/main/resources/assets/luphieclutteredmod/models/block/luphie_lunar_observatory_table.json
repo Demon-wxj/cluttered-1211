@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/lunarobservatorytable",
+  "textures": {
+    "all": "luphieclutteredmod:block/lunarobservatorytable1",
+    "particle": "luphieclutteredmod:block/lunarobservatorytable1",
+    "0": "luphieclutteredmod:block/lunarobservatorytable1"
+  },
+  "render_type": "solid"
+}

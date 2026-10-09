@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/acnhgenstorrcabinet",
+  "textures": {
+    "all": "luphieclutteredmod:block/acnhgeneralstorecabinettext",
+    "particle": "luphieclutteredmod:block/acnhgeneralstorecabinettext",
+    "2": "luphieclutteredmod:block/acnhgeneralstorecabinettext"
+  },
+  "render_type": "cutout"
+}

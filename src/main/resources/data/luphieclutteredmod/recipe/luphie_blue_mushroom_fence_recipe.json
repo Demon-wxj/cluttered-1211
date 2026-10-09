@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "luphieclutteredmod:luphie_blue_mushroom_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "luphieclutteredmod:luphie_blue_mushroom_planks"
+    },
+    "3": {
+      "item": "luphieclutteredmod:luphie_blue_mushroom_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "luphieclutteredmod:luphie_blue_mushroom_planks"
+    }
+  },
+  "result": {
+    "count": 3,
+    "id": "luphieclutteredmod:luphie_blue_mushroom_fence"
+  }
+}

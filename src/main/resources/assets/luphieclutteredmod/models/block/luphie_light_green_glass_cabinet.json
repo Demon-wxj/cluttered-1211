@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/lightgreenglasscabinet",
+  "textures": {
+    "all": "luphieclutteredmod:block/greenglasscabinettext",
+    "particle": "luphieclutteredmod:block/greenglasscabinettext",
+    "0": "luphieclutteredmod:block/greenglasscabinettext"
+  },
+  "render_type": "cutout"
+}
