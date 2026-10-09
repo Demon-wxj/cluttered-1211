@@ -11,3 +11,7 @@ Cluttered 2.1.0 的非官方 1.21.1 移植，保留 2.x 家具、装饰内容和
 - [构建方法](BUILDING.md)
 - [安装与依赖](INSTALLATION.md)
 - [来源与许可详情](THIRD_PARTY_NOTICES.md)
+
+## 贡献者
+
+Demon-wxj · GPT（OpenAI）。分工见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
